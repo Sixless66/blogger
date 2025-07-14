@@ -27,7 +27,6 @@ A full-featured Blog Application built using the MERN Stack (MongoDB, Express.js
 | React + Tailwind | Node.js + Express | ImageKit, Google Gemini |
 | Context API       | MongoDB (Mongoose) | Dotenv, Axios           |
 
----
 
-## 📂 Project Structure
+
 
